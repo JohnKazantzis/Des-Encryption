@@ -1,11 +1,14 @@
-DES - ECB
+DES - ECB encryption implemented from scratch.
 
-----Input----
-m: 64 bits
-k: 64 bits
+--------Input---------
 
-----Output----
+m: 64 bits (plaintext)
+k: 64 bits (hex)
+
+--------Output--------
 
 c: 64 bits
+
+----------------------
 
 > Coded in Python 2.7
